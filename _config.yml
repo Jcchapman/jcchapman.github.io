@@ -1,2 +1,39 @@
 theme: jekyll-theme-cayman
 # remote_theme: andrewbanchich/forty-jekyll-theme
+
+# site settings
+title: CONTXT
+subtitle: by JC Chapman
+email: admin@jcchapman.com
+description: Empowering compliance professionals. ConTXT automates compliance and regulatory reporting for Financial Institutions from source to final report. Cutting time and costs up to 95%, ConTXT lets Compliance Professionals and Solution Partners get their job done safer, faster, smarter and cheaper.
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: JC Chapman
+street_address: London
+city: London
+state: Greater London
+zip_code: 
+country: United Kingdom
+phone: 
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/company/jc-chapman/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed

@@ -14,7 +14,7 @@ destination:    ./_gh_pages
 host:           0.0.0.0
 port:           9001
 baseurl:        ""
-url:            "https://getbootstrap.com"
+url:            "https://contxt.ai"
 encoding:       UTF-8
 exclude:
   - .git/
@@ -51,9 +51,9 @@ social_image_path:  /assets/brand/bootstrap-social.png
 social_logo_path:   /assets/brand/bootstrap-social-logo.png
 
 # Custom variables
-current_version:      4.1.1
-current_ruby_version: 4.1.1
-docs_version:         4.1
+current_version:      
+current_ruby_version: 
+docs_version:         1.0
 repo:                 "https://github.com/twbs/bootstrap"
 slack:                "https://bootstrap-slack.herokuapp.com"
 blog:                 "https://blog.getbootstrap.com"
